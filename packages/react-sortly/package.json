@@ -13,6 +13,11 @@
   ],
   "repository": "git@github.com:lytc/react-sortly.git",
   "author": "lytc <prtran@gmail.com>",
+  "contributors": [
+    {
+      "name": "Addison Elliott"
+    }
+  ],
   "license": "MIT",
   "main": "lib/index.js",
   "files": [
