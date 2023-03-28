@@ -1,5 +1,5 @@
 {
-  "name": "react-sortly",
+  "name": "@addisonelliott/react-sortly",
   "version": "3.0.4",
   "description": "React nested sortable component",
   "keywords": [
@@ -11,12 +11,14 @@
     "drop",
     "dnd"
   ],
-  "repository": "git@github.com:lytc/react-sortly.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/addisonElliott/react-sortly.git"
+  },
+  "bugs": "https://github.com/addisonElliott/react-sortly/issues",
   "author": "lytc <prtran@gmail.com>",
-  "contributors": [
-    {
-      "name": "Addison Elliott"
-    }
+  "maintainers": [
+    "Addison Elliott <addison.elliott@gmail.com>"
   ],
   "license": "MIT",
   "main": "lib/index.js",
