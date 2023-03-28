@@ -7,11 +7,11 @@ Supported to sort the tree, vertical list, horizontal list, table row and maybe 
 
 ## Installation
 ```bash
-npm install --save react-sortly react-dnd react-dnd-html5-backend immutability-helper memoize-one
+npm install --save @addisonElliott/react-sortly
 ```
 or
 ```bash
-yarn add react-sortly react-dnd react-dnd-html5-backend immutability-helper memoize-one
+yarn add @addisonElliott/react-sortly
 ```
 Demo: [https://lytc.github.io/react-sortly](https://lytc.github.io/react-sortly)
 
