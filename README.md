@@ -1,7 +1,9 @@
-# [React Sortly](https://lytc.github.io/react-sortly)
+# React Sortly
 Simple, lightweight and highly customizable dnd nested sortable React component based on [React DnD](https://github.com/react-dnd/react-dnd)
 
 Supported to sort the tree, vertical list, horizontal list, table row and maybe more!
+
+**Repository forked from https://github.com/lytc/react-sortly**
 
 ## Installation
 ```bash
@@ -47,7 +49,7 @@ const MySortableTree = () => {
   const handleChange = (newItems) => {
     setItems(newItems);
   };
-  
+
   return (
     <Sortly items={items} onChange={handleChange}>
       {(props) => <ItemRenderer {...props} />}
